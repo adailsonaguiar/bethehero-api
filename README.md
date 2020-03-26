@@ -48,7 +48,7 @@ Clone a aplicação através do comando:
 localhost:3333/profile?pages=2
 ```
 
-**4.**localhost:3333/sessions (POST)
+**4.** localhost:3333/sessions (POST)
 
 > **Rota de login**
 > Deve-se enviar o id da ONG no **body**.
